@@ -2,40 +2,38 @@
     /**** COLOR PALLETE ****/
     
     /* PRIMARY COLORS */
-    --primary-teal-color: var(--teal-accent-900);
-    --primary-orange-color: var(--orange-accent-900);
     --primary-white-color: var(--white-accent-900);
 
     /* SECONDARY COLORS */
-    --secondary-blue-color: var(--blue-accent-100);
 
     /* HEADERS COLOR */
     --header-color-default: var(--black-accent-900);
+    --input-border-color: var(--light-grey-accent-100);
 
-    /* TEXT BODY COLOR */
-    --body-color-default: var(--black-accent-300);
-    --body-color-teal-bg-default: var(--black-accent-500);
-    --body-color-teal-bg-secondary: var(--orange-accent-100);
+    /* LIGHT GREY COLORS */
+    --light-grey-accent-faded-100: #F5F7FF;
+    --light-grey-accent-100: #C0C0C0;
 
     /* TEAL */
     --teal-accent-900: #05969B;
     --teal-accent-100: #E8F6F6;
 
     --teal-faded-accent-100: #05969B0A;
-
+    
     /* ORANGE */
     --orange-accent-900: #F2994A;
     --orange-accent-100: #FCF6EE;
-
+    
     /* BLUE */
     --blue-accent-100: #1B5EC9;
-
+    
     /* BLACK */
     --black-accent-900: #000000;
-    --black-accent-500: #1D1D1D;
-    --black-accent-300: #282828;
-    --black-accent-100: #0C0E10;
-    /* --black-accent-100: #444444; */
+    --black-accent-500: #0C0E10;
+    --black-accent-300: #1E1E1E;
+    --black-accent-100: #232323;
+    
+    --black-faded-accent-100: #444444;
 
     --white-accent-900: #FFFFFF;
 

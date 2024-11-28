@@ -1,9 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
     --input-field-border-radius: 8px;
     --container-border-radius: 8px;
     --input-field-padding: 16px;
     --sidebar-mobile-z-index: 100;
-    --background-color: var(--black-accent-100);
+    --background-color: var(--black-accent-500);
 }
 
 * {
@@ -19,7 +23,7 @@ button {
 }
 body {
     background-color: var(--background-color);
-    color: var(--primary-text-color);
+    color: var(--primary-white-color);
     font-weight: var(--font-weight-normal);
     font-size: var(--font-size-16);
     line-height: 130%;
